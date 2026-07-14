@@ -302,7 +302,7 @@ function Home({ onNavigate }) {
 
         <section className="home-index ruled-section" aria-labelledby="home-index-title">
           <div>
-            <div className="section-kicker">PUBLISH / CONVENE / TEACH / PRACTICE / EXPERIMENT</div>
+            <div className="section-kicker">PUBLISH / GATHER / TEACH / PRACTICE / EXPERIMENT</div>
             <h2 id="home-index-title">ONE BODY OF WORK.<br />FIVE WAYS IN.</h2>
           </div>
           <div className="lens-list">

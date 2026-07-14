@@ -1,4 +1,4 @@
-export const lenses = ["All", "Publish", "Convene", "Teach", "Practice", "Experiment"];
+export const lenses = ["All", "Publish", "Gather", "Teach", "Practice", "Experiment"];
 
 export const projects = [
   {
@@ -7,7 +7,7 @@ export const projects = [
     title: "Teaming with AI",
     shortTitle: "Teaming with AI",
     format: "White paper + community",
-    lenses: ["Publish", "Convene", "Experiment"],
+    lenses: ["Publish", "Gather", "Experiment"],
     state: "OPEN INQUIRY",
     period: "2023—NOW",
     dek: "A practical investigation into how AI changes roles, trust, collaboration, and decision-making inside teams.",
@@ -64,7 +64,7 @@ export const projects = [
     title: "AI Camp",
     shortTitle: "AI Camp",
     format: "Annual conference",
-    lenses: ["Convene", "Experiment"],
+    lenses: ["Gather", "Experiment"],
     state: "RECURRING",
     period: "ANNUAL",
     dek: "An annual gathering for testing how AI changes collaboration, organizations, and the practice of innovation.",
@@ -83,7 +83,7 @@ export const projects = [
     title: "The Global Service Jam",
     shortTitle: "Global Service Jam",
     format: "Global Jam",
-    lenses: ["Convene", "Practice"],
+    lenses: ["Gather", "Practice"],
     state: "LIVE NETWORK",
     period: "2011—NOW",
     dek: "A volunteer-led global event where people learn service design by making and testing together in 48 hours.",
@@ -105,7 +105,7 @@ export const projects = [
     title: "The Global Sustainability Jam",
     shortTitle: "Sustainability Jam",
     format: "Global Jam",
-    lenses: ["Convene", "Practice"],
+    lenses: ["Gather", "Practice"],
     state: "ARCHIVE / LINEAGE",
     period: "2011—",
     dek: "The sustainability-focused sibling of the Service Jam, connecting global themes with local action.",
@@ -124,7 +124,7 @@ export const projects = [
     title: "Global AI Jam",
     shortTitle: "Global AI Jam",
     format: "Upcoming global Jam",
-    lenses: ["Convene", "Experiment"],
+    lenses: ["Gather", "Experiment"],
     state: "IN DEVELOPMENT",
     period: "UPCOMING",
     dek: "A new participatory format for exploring AI through local making, global exchange, and shared evidence.",

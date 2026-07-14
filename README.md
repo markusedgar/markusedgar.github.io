@@ -28,5 +28,5 @@ A fresh-context reviewer—not the builder—must return at least 90/100 overall
 
 ## Deployment targets
 
-- Primary: [markusedgar.github.io](https://markusedgar.github.io/) through `.github/workflows/pages.yml`
+- Primary: [markusedgar.github.io](https://markusedgar.github.io/) from the generated `gh-pages` branch
 - Compatible fallback: Render Static Site through `render.yaml`
